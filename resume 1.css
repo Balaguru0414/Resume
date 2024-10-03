@@ -40,6 +40,7 @@ img{
 	border: none;
 	outline: none;
 	padding: 2px;
+	object-fit :cover;
 	box-shadow: inset 6px 6px 12px gray, inset -6px -6px 12px white,
 				-6px -6px 12px white,6px 6px 12px gray;
 }
